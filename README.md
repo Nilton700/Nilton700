@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-0077B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="Linkeind: Nilton Alves">
-    <img src="[https://img.shields.io/badge/LinkedIn-0096C7?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/nilton-alves-1b9b3640b/)" />
+    <img src="https://img.shields.io/badge/LinkedIn-0096C7?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/nilton-alves-1b9b3640b/)" />
   </a>
   <a href="e-mail: niltonalves13579@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
