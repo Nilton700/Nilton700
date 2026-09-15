@@ -79,10 +79,4 @@ class NiltonAlves:
 🚀 Evolução contínua na área de tecnologia
 ```
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nilton700&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF&border_color=0077B6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilton700&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00B4D_
