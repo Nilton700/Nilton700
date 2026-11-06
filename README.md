@@ -1,6 +1,6 @@
 # 👨‍💻 Nilton Alves
 
-### `Software Engineering Student` • `Web Development` • `Backend`
+### `Estudante de Engenharia de Software` • `Desenvolvimento Web` • `Back-end`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Nilton%20Alves&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -22,25 +22,28 @@
 
 ## 🚀 Sobre mim
 
-Olá! 👋 Sou **Nilton Alves**, estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de soluções através da programação.
+Olá! 👋 Sou **Nilton Alves**, estudante de **Engenharia de Software**, sou muito interessado por tecnologia e desenvolvimento de soluções através da programação. Enquanto vou estudando ou desenvolvendo algo sempre busco aproveitar ou extrair ao máximo cada aprendizado que adquiro nessa longa jornada que a área da TI me apresenta dia após dia 😎​🤙​.
 
-Atualmente, estou desenvolvendo minhas habilidades principalmente em **Python**, **desenvolvimento Front-end** e **Git/GitHub**, enquanto exploro cada vez mais o universo do **Desenvolvimento Web** e **Back-end**.
+Atualmente, estou desenvolvendo minhas habilidades em **Python**, programas na linguagem **C**, **desenvolvimento Front-end** e usufruindo do **Git/GitHub**, enquanto exploro cada vez mais o universo do **Desenvolvimento Web** e **Back-end**.
 
 ```python
 class NiltonAlves:
     name = "Nilton Alves"
-    role = "Software Engineering Student"
+    course = "Engenharia de Software"
 
     skills = [
         "Python",
+        "C",
         "HTML",
         "CSS",
+        "JavaScript",
         "Git",
-        "GitHub"
+        "GitHub",
+        "SQL"
     ]
 
     interests = [
-        "Web Development",
+        "Desenvolvimento Web",
         "Back-end"
     ]
 
@@ -54,9 +57,11 @@ class NiltonAlves:
 ### Linguagens
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0096C7?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-00B4D8?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### Versionamento
@@ -74,7 +79,7 @@ class NiltonAlves:
 🌐 Desenvolvimento Web
 ⚙️ Back-end
 🐍 Desenvolvimento com Python
-🔧 APIs e integração de sistemas
+👾​ Desenvolvimento em C
 📚 Arquitetura e boas práticas de software
 🚀 Evolução contínua na área de tecnologia
 ```
