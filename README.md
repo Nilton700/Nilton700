@@ -1,4 +1,4 @@
-# 👨‍💻 Nilton Alves
+# Nilton Alves
 
 ### `Estudante de Engenharia de Software` • `Desenvolvimento Web` • `Back-end`
 
@@ -20,9 +20,9 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Olá! 👋 Sou **Nilton Alves**, estudante de **Engenharia de Software**, sou muito interessado por tecnologia e desenvolvimento de soluções através da programação. Enquanto vou estudando ou desenvolvendo algo sempre busco aproveitar ou extrair ao máximo cada aprendizado que adquiro nessa longa jornada que a área da TI me apresenta dia após dia 😎​🤙​.
+Olá! Sou **Nilton Alves**, estudante de **Engenharia de Software**, sou muito interessado por tecnologia e desenvolvimento de soluções através da programação. Enquanto vou estudando ou desenvolvendo algo sempre busco aproveitar ou extrair ao máximo cada aprendizado que adquiro nessa longa jornada que a área da TI me apresenta dia após dia 😎​🤙​.
 
 Atualmente, estou desenvolvendo minhas habilidades em **Python**, programas na linguagem **C**, **desenvolvimento Front-end** e usufruindo do **Git/GitHub**, enquanto exploro cada vez mais o universo do **Desenvolvimento Web** e **Back-end**.
 
@@ -42,17 +42,12 @@ class NiltonAlves:
         "SQL"
     ]
 
-    interests = [
-        "Desenvolvimento Web",
-        "Back-end"
-    ]
-
-    goal = "Evoluir constantemente e construir soluções que gerem impacto."
+    goal = "Aprender ada vez mais ao longo do tempo e ir cada vez mais longe 👍"
 ```
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 
@@ -73,7 +68,7 @@ class NiltonAlves:
 
 ---
 
-## 🎯 Áreas de Interesse
+## Áreas de Interesse
 
 ```text
 🌐 Desenvolvimento Web
@@ -83,5 +78,3 @@ class NiltonAlves:
 📚 Arquitetura e boas práticas de software
 🚀 Evolução contínua na área de tecnologia
 ```
-
-
